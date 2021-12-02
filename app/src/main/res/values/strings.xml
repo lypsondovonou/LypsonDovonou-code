@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Produits</string>
+    <string name="titre">Vente de Produit</string>
+    <string name="des">Designation</string>
+    <string name="desc">Description</string>
+    <string name="prix">Prix</string>
+    <string name="quantité">Quantité</string>
+    <string name="alerte">Alerte</string>
+    <string name="button">AJouter</string>
+    <string name="titree">Les Informations</string>
+    <string name="titreee">Modification</string>
+    <string name="name">Designation : </string>
+    <string name="nam">Description : </string>
+    <string name="namee">Prix : </string>
+    <string name="enre">Enregistrer</string>
+    <string name="names">Quantite: </string>
+    <string name="namm">Alerte: </string>
+    <string name="namme">Nom du produit </string>
+    <string name="nammee">Prix du produit</string>
+    <string name="mod">Modifier</string>
+    <string name="sup">Supprimer</string>
+    <string name="text">Souhaitez-Vous vraiment supprimer ce produit ?Appuyer sur confirmer pour le supprimer définitivement.</string>
+    <string name="texte">Confirmer la suppression du produit</string>
+</resources>

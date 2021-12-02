@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303468953853",
+    "project_id": "produit-2494a",
+    "storage_bucket": "produit-2494a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303468953853:android:4c10073cead63e7ec0be94",
+        "android_client_info": {
+          "package_name": "com.example.vente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303468953853-7h1s5b4spapkobr5b2qelm8pd4utm650.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilfCNI7AGhwb4f-XsHyzdkPkp_G3kDSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303468953853-7h1s5b4spapkobr5b2qelm8pd4utm650.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

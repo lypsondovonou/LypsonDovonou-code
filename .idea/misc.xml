@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lypso/AndroidStudioProjects/Vente/app/src/main/res/drawable-anydpi/ic_dollar.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/lypso/AndroidStudioProjects/Vente/app/src/main/res/layout/activity_information.xml" value="0.28278041074249605" />
+        <entry key="..\:/Users/lypso/AndroidStudioProjects/Vente/app/src/main/res/layout/activity_main.xml" value="0.28278041074249605" />
+        <entry key="..\:/Users/lypso/AndroidStudioProjects/Vente/app/src/main/res/layout/activity_message.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/lypso/AndroidStudioProjects/Vente/app/src/main/res/layout/activity_product_list.xml" value="0.33" />
+        <entry key="..\:/Users/lypso/AndroidStudioProjects/Vente/app/src/main/res/layout/activity_up_date.xml" value="0.33" />
+        <entry key="..\:/Users/lypso/AndroidStudioProjects/Vente/app/src/main/res/layout/listaddapter.xml" value="0.33" />
+        <entry key="..\:/Users/lypso/AndroidStudioProjects/Vente/app/src/main/res/menu/meuvlist.xml" value="0.19895833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
